@@ -31,7 +31,7 @@ void fibonacciSequence(unsigned int x) {
 }
 
 int main() {
-    int x;
+    unsigned int x;
     cout << "How many digits of a fibonacci sequence would you like to display?" << endl;
     //Input must be an unsigned integer
     cin >> x;
